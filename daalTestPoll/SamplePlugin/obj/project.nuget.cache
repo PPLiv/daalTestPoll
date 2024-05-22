@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NqUqxnO7vg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bigfa\\Desktop\\Test\\SamplePlugin\\SamplePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bigfa\\.nuget\\packages\\dalamudpackager\\2.1.12\\dalamudpackager.2.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
